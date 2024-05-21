@@ -1,6 +1,5 @@
 Rosalind Bioinformatic stronghold questions 1 to 10. 
 By CHRIS CHEN; 
-
 Topics included: 
 1.Counting DNA Nucleotides
 2.Transcribing DNA into RNA
